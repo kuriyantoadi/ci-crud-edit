@@ -1,5 +1,5 @@
-# CodeIgniter-CRUD-Tambah
-Menghubungkan CI dengan Database
+# CodeIgniter-CRUD-Edit
+Menghubungkan CI dengan Database - Edit
 
 **1. Extrak Framework CI**
 
