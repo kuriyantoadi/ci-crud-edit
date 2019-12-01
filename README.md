@@ -28,6 +28,7 @@ Menghubungkan CI dengan Database
   - application/view/main.php -> tambahkan beberapa syntax
   - application/models/M_buku.php -> tambahkan syntax function edit database
 
+
   **6. application/config/routes.php ubah baris 52**
   `$route['default_controller'] = 'C_buku';`
 
